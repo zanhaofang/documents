@@ -43,5 +43,5 @@
 #### **3.1 功能需求**
 #### 3.1.1 网站各功能下的画面
 &#8195;&#8195;打开网站时的画面：
-![](F:\桌面\王青\pic\pic1)
+![](https://github.com/zanhaofang/pics/blob/master/init2.png)
 
