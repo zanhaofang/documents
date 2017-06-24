@@ -42,12 +42,22 @@
 ### **3 具体要求**
 #### **3.1 功能需求**
 #### 3.1.1 网站各功能下的画面
+
+
 &#8195;&#8195;打开网站时的画面：
+
+
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init1.png)
+
+
 
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init2.png)
 
+
+
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init3.png)
+
+
 
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init4.png)
 
