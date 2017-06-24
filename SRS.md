@@ -13,12 +13,20 @@
 
 #### **1.2 背景**
 &#8195;&#8195;本项目为iSee小组自主实现的能够实现在线购票功能的网站，旨在帮助人们更便捷的从网络上购买电影票。
+
+
 项目名称：iSee电影在线购票网站
+
 项目组织者： iSee小组
+
 项目主负责人：徐广晖
+
 项目组成员： 徐广晖，吴其锋，方赞浩
+
 产品用户者： 所有在线用户
-产品设计者： iSee小组;
+
+产品设计者： iSee小组
+
 产品所有权： iSee小组拥有
 
 #### **1.3 定义**
@@ -43,21 +51,13 @@
 #### **3.1 功能需求**
 #### 3.1.1 网站各功能下的画面
 
-
 &#8195;&#8195;打开网站时的画面：
-
 
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init1.png)
 
-
-
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init2.png)
 
-
-
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init3.png)
-
-
 
 ![](https://github.com/iSee-SYSU/documents/blob/master/img/init4.png)
 
